@@ -2,7 +2,7 @@
 
 Resources collection for the hot research topic of Continual Learning, a fundamental step stone to Artificial General Intelligence ([AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)).
 
-Papers:
+**Papers**:
 
 * Hanul Shin, Jung Kwon Lee, Jaehong Kim, and Jiwon Kim. [“Continual Learning with Deep Generative Replay”](https://papers.nips.cc/paper/6892-continual-learning-with-deep-generative-replay.pdf). Advances in Neural Information Processing Systems, 2017.
 * Xu He and Herbert Jaeger. [“Overcoming Catastrophic Interference using Conceptor-Aided Backpropagation”](https://openreview.net/pdf?id=B1al7jg0b). International Conference on Learning Representations, 2018.
